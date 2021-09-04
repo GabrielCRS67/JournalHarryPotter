@@ -1,0 +1,54 @@
+@import url(../fontes/BlackCastleMF.ttf);
+@import url(../fontes/mugglenews_by_nathanthenerd_d41qn8p.ttf);
+@import url(../fontes/HEADTH__.TTF);
+@import url(../fontes/HEADOH__.TTF);
+
+
+/* TITULO */
+@font-face {
+    font-family: "Muggle News";
+    src: url(../fontes/mugglenews_by_nathanthenerd_d41qn8p.ttf);
+}
+
+/*  */
+@font-face {
+    font-family: "Black Castle";
+    src: url(../fontes/BlackCastleMF.ttf);
+}
+
+
+/* MATERIA PRINCIPAL DO JOURNAL */
+@font-face {
+    font-family: "Headth";
+    src: url(../fontes/HEADOH__.TTF);
+}
+
+/* FONTE DA EVENING EDITION */
+@font-face {
+    font-family: "Rocket";
+    src: url(../fontes/tr_rocke.ttf);
+}
+
+/* FONTE DO "the" */
+@font-face {
+    font-family: "Botanical";
+    src: url(../fontes/botanical-scribe.ttf);
+}
+
+/*  */
+@font-face {
+    font-family: "Artisan Roman";
+    src: url(../fontes/Artisan\ Roman\ Std\ Regular.otf);
+}
+
+/* FONTE DO 7 */
+@font-face {
+    font-family: "Blnc Round";
+    src: url(../fontes/Blnc\ Round.otf);
+}
+
+/* FONTE DO ZOADIC */
+@font-face {
+    font-family: "URW";
+    src: url(../fontes/URW\ Cochin\ W01\ Roman.ttf);
+}

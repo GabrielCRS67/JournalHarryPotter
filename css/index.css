@@ -1,0 +1,198 @@
+@charset "UTF-8";
+
+@import url(../css/fontes.css);
+
+
+body, html {
+    height: 100vh;
+    box-sizing: border-box;
+    overflow-x:hidden ;
+    margin: 0 auto;
+}
+
+
+
+.journal p{
+    text-align: center;
+    
+}
+
+.journal hr{
+    width: 47%;
+    height: 0;
+    border-style: dashed;
+
+}
+.edicao-journal{
+   display: flex;
+   justify-content: flex-end;
+   padding-top: 1px;
+   padding-right: 10px;
+   background-color: transparent;
+   
+}
+
+.edicao-journal-texto{
+   font-family: "Rocket";
+   font-size: 2em;
+   font-weight: lighter;
+   
+}
+   
+
+.linha-titulo{
+    display: flex;
+    align-items: baseline;
+    height: 21px;
+    
+}
+
+.journal{
+    width: 940px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding:20px;
+    border-radius: 25px 0 0 25px;
+
+    background-color: #d2b890;
+}
+
+.journal spam{
+    color: rgb(255, 255, 0);
+    font-family: "Muggle News";
+}
+
+.comeco-do-jornal{
+    font-family: "Botanical";
+    font-size: 2em;
+    
+}
+   
+.nome-da-empresa-journal{
+    height: 70%;
+    
+    background:transparent;
+}
+
+.nome-da-empresa-journal h1{
+    text-align: center;
+    height: 110px;
+}
+
+.nome-da-empresa-journal hr{
+    width: 99%;
+    display: inline-block;
+    margin-top: 2px;
+    
+}
+ 
+.titulo-principal-do-jornal{
+    font-family: "Muggle News";
+    font-size: 8em;
+}
+    
+.data-info{
+    display: flex;
+    justify-content: space-around;
+
+    font-size: 16px;
+    font-family: "Artisan Roman";
+    font-size: 20px;
+}
+
+.data-info spam{
+    color: black;
+
+    font-weight:bold;
+}
+
+.conteudo-complement-data {
+    position: relative;
+}
+
+.img7-zodiac{
+    height: 119px;
+}
+
+.img7-zodiac svg{
+    height: 73px;
+}
+
+.numero-7{
+    color: white;
+
+    font-family: "Blnc Round";
+    font-size: 20px ;
+}
+    
+
+.knuts{
+    font-size: 16px ;
+    font-family: "Blnc Round";
+    
+    color: white;
+}
+
+.numero-7-knuts{
+    position: absolute;
+    /* top: 242px; */
+    /* right: 0; */
+    /* left: 504px; */
+    top: 10px;
+    left: 35px;
+    
+}
+
+.conteudo-zoadic{
+    display: flex;
+    flex-direction: column;
+    
+    position: absolute;
+    
+    font: "URW";
+    top:65px;
+    font-size: 15px;
+}
+   
+.muggle-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* height: 51px; */
+    width: 550px;
+    /* margin-bottom: 15px; */
+    /* bottom: 11px; */
+    position: absolute;
+    top: 30px;
+    
+}
+
+.muggle-4 p {
+    margin-bottom: 1px;
+
+    font-size:19px;
+    font-family: "URW";
+}
+
+    
+   
+
+
+    
+
+
+
+  
+   
+    
+    
+    
+     
+
+
+
+   
+
+
+
