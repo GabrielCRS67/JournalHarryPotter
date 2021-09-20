@@ -1,0 +1,5 @@
+@keyframes flutter {
+    to{
+        transform: translate(10px, 15px);
+    }
+}

@@ -1,9 +1,3 @@
-@import url(../fontes/BlackCastleMF.ttf);
-@import url(../fontes/mugglenews_by_nathanthenerd_d41qn8p.ttf);
-@import url(../fontes/HEADTH__.TTF);
-@import url(../fontes/HEADOH__.TTF);
-
-
 /* TITULO */
 @font-face {
     font-family: "Muggle News";
@@ -52,3 +46,23 @@
     font-family: "URW";
     src: url(../fontes/URW\ Cochin\ W01\ Roman.ttf);
 }
+
+/* FONTE RITA SKE */
+@font-face {
+    font-family: "Typo Long";
+    src: url(../fontes/Typo-Longest\ Regular\ Demo.otf);
+}
+
+/* FONTE SCOOP 19 */
+@font-face {
+    font-family: "Suez One";
+    src: url(../fontes/suez-one.ttf);
+}
+
+/* FONTE DA PARTE DO LOREM */
+@font-face{
+    font-family: "Avexia";
+    src: url(../fontes/Avexia\ Personal\ Use\ Only.ttf);
+}
+
+
