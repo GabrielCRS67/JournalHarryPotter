@@ -315,19 +315,22 @@ body, html {
 .lorem{
     display: flex;
     flex-direction: column;
-    
+
     width: 22%;
     /* height: 346px; */
+
     line-height: 1.1;
 
     position: absolute;
-    top: 458px;
-    right: 99px;
+    top: 456px;
+    right: 79px;
 
     font-family: "Avexia";
-    font-size: 17px;
+    font-size: 1em;
     
 }
+    
+
 
 .negrito{
     font-weight: bold;
@@ -426,8 +429,8 @@ body, html {
 
 .madam15 .quinze{
     position: absolute;
-    right: 33%;
-    top: 838px;
+    right: 32%;
+    top: 835px;
     font-size: 128px;
     font-family: "Artisan Roman";
     font-weight: 400;
